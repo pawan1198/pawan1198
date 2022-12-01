@@ -6,18 +6,12 @@
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
       </p>
 
-
-This is the GitHub repository of [R CODER](https://r-coder.com/) and [R CHARTS](https://r-charts.com/)🚀, two websites that provide detailed R tutorials in English and Spanish.
-
 - 📫 Contact us: pawanjangra1198@gmail.com
 
-
-
-[![R CODER github stats](https://github-readme-stats.vercel.app/api?username=R-CoderDotCom&count_private=false&show_icons=true&hide_rank=true)](https://github.com/R-CoderDotCom) 
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" style="max-width:100%;" width="500" height="320" align="right">
 <p align="left"> 
   Visitor count <br />
-  <img src="https://profile-counter.glitch.me/R-CoderDotCom/count.svg" />
+  <img src="https://profile-counter.glitch.me/pawan1198/count.svg" />
 </p>
 
 ## Take a look to our repositories:
