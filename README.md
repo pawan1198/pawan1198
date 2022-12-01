@@ -2,17 +2,14 @@
 <h1 align="center"> Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
-      <a href="https://twitter.com/RCoderWeb" alt="Twitter Badgee">
+      <a href="https://twitter.com/pawanjangra1198" alt="Twitter Badgee">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-      <a href="https://www.facebook.com/RCODERweb" alt="Facebook Badge">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
+      </p>
 
 
 This is the GitHub repository of [R CODER](https://r-coder.com/) and [R CHARTS](https://r-charts.com/)🚀, two websites that provide detailed R tutorials in English and Spanish.
 
-- 💻 If you want to **learn R from zero** take a look to our [free course](https://r-coder.com/learn-r).
-- 📫 Contact us: support.rcoder@protonmail.com
+- 📫 Contact us: pawanjangra1198@gmail.com
 
 
 
