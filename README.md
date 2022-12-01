@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" align="center" width="150">](https://ggplot2.tidyverse.org/)
+##[<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" align="center" width="150">](https://ggplot2.tidyverse.org/)
 <h1 align="center"> Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
