@@ -15,4 +15,4 @@
   <img src="https://profile-counter.glitch.me/pawan1198/count.svg" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan1198&langs_count=8)](https://github.com/pawan1198/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan1198&langs_count=8&layout=compact)](https://github.com/pawan1198/github-readme-stats)
