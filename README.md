@@ -7,8 +7,10 @@
 
 - 📫 Contact us: pawanjangra1198@gmail.com
 
+[![pawan1198 github stats](https://github-readme-stats.vercel.app/api?username=pawan1198&count_private=false&show_icons=true&hide_rank=true)](https://github.com/pawan1198) 
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" style="max-width:100%;" width="500" height="320" align="right">
 <p align="left"> 
+
   Visitor count <br />
   <img src="https://profile-counter.glitch.me/pawan1198/count.svg" />
 </p>
@@ -16,7 +18,7 @@
 ## Take a look to our repositories:
 
 <!--
-**R-CoderDotCom/R-CoderDotCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pawan1198/pawan1198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
