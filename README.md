@@ -6,7 +6,7 @@
       </p>
       
 - 📫 Contact us: pawanjangra1198@gmail.com
-- [Linkedin Profile](www.linkedin.com/in/pawanjangra1198)
+- [Linkedin Profile][www.linkedin.com/in/pawanjangra1198]
 
 [![pawan1198 github stats](https://github-readme-stats.vercel.app/api?username=pawan1198)](https://github.com/pawan1198) 
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" style="max-width:100%;" width="500" height="320" align="right">
