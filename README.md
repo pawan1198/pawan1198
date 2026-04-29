@@ -1,24 +1,86 @@
-# 💫 About Me:
-I worked as a Research Assistant at the Society for Social and economic Research, New Delhi, for more than 3 years. As a Research Assistant, I worked as a Survey Field Investigator, Data Manager, and Data Analyst. I have experience conducting door-to-door surveys and collecting and verifying data, including paper-based and electronic surveys. Good communication skills to explain survey procedures to participants and resolve any issues that arise during data collection. Ability to organize and manage survey materials and data collection processes. I have experience using statistical software to analyze data, identify trends, and create reports. I am also familiar with R (Statistical Computing Software), and along with this I am also familiar with fundamental data analysis with Python, and knowledge of Linux OS and am comfortable working with large datasets. As a Research Assistant, I especially enjoy working with the research team to analyze the data and data collection methods. During my role as a Research Assistant at the Society for Social and Economic Research, I worked with a team of researchers to develop a process for collecting and analyzing data. I worked as a Course Assistant for the IDEAs Advanced Certificate Programme on Research in Political Economy. During this programme, I worked as a Survey Field Assistant, Technical Assistant, and Office Assistant. As a Survey Field Assistant, I provided assistance based on my previous field experience and helped conduct a good survey. As a Technical Assistant, I managed the classroom setup for both in-person (Indian) and online (international) students and helped to provide better visual and audible lectures to international students through Zoom and other related software also for the in-person students. As an Office Assistant, I managed the office and classroom-related things. Like welcoming the resource person, managing stationery, managing accounts, and managing consumable things. As a Course Assistant, I am very familiar with Zoom (online meeting software), OBS-Studio (Broadcasting Software), Videography, Audiography, etc. During my role as a Course Assistant for the IDEAs Advanced Certificate Programme on Research in Political Economy, I enjoyed assisting, especially during the lectures taken by great economists from all over the world.
+# Pawan · Data Analyst & Economic Researcher
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawanjangra1198) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pawanjangra1198) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pawanjangra1198) 
-
-# 💻 Tech Stack:
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pawan1198&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pawan1198&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan1198&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pawan1198&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pawan1198&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**New Delhi, India** · [LinkedIn](https://linkedin.com/in/pawanjangra1198) · [X / Twitter](https://x.com/pawanjangra1198) · [Portfolio](https://pawan1198.github.io/portfolio) · [Topmate](https://topmate.io/pawanjangra1198) · [Medium](https://medium.com/@pawanjangra1198)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pawan1198&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I'm an independent data analyst and economic researcher with **7+ years** of experience in survey methodology, statistical computing, and research coordination. My work sits at the intersection of **applied economics**, **data journalism**, and **open-source publishing** — with a focus on India's labour markets, agricultural economy, and public finance.
+
+Previously at the **Society for Social and Economic Research (SSER)** and **IDEAs Advanced Certificate Programme** (OP Jindal Global University), where I led field surveys, managed large datasets, and developed analytical pipelines for socio-economic research.
+
+---
+
+## Core Skills
+
+| Domain | Tools & Technologies |
+|---|---|
+| **Statistical Analysis** | R (`data.table`, `tidyverse`, `ggplot2`, `ggiraph`) |
+| **Interactive Dashboards** | R Shiny, Quarto, `gt`, `plotly` |
+| **Survey & Field Data** | ODK / SurveyCTO, PPS sampling, PLFS microdata |
+| **Python** | `pandas`, `openpyxl`, `selenium`, `requests` |
+| **Web Scraping** | `rvest`, `RSelenium`, `BeautifulSoup` |
+| **Publishing** | Quarto books/websites, R Markdown, Org-mode |
+| **Infrastructure** | Linux/Bash, Git, GitHub Actions |
+| **Data Sources** | IMF, World Bank, ILO, UNDP, MOSPI, GST portal |
+
+---
+
+## Featured Projects
+
+### 📊 India Economic Analysis Suite
+Multi-file Quarto analysis covering edible oils, fertilizers, food prices, fuel prices, PLFS labour market data, foodgrain procurement, and merchandise trade — with HHI-based import concentration risk.  
+`data.table` · `ggiraph` · `gt` · `arrow` · `ggplot2`
+
+### 📚 R for Statistical Analysis (Textbook)
+An 18-chapter Quarto book covering foundations through advanced modelling using Indian agricultural and economic data contexts. Includes dedicated `data.table` and APA 7th edition chapters.  
+→ [statistics-with-R](https://github.com/pawan1198/r-cheatsheets)
+
+### 🌐 Portfolio Website
+A multi-page Quarto site with custom SCSS themes, slide-in content drawer, and 28 integrated items spanning data viz, articles, blog posts, and statistics.  
+→ [pawan1198.github.io/portfolio](https://pawan1198.github.io/portfolio) · [portfolio](https://github.com/pawan1198/portfolio)
+
+### 📈 GST Data Dashboard (2017–2026)
+R analysis of Indian tax collection data with 11 ggplot2 visualisations, statistical tests, and a full `shinydashboard` app with ARIMA/ETS forecasting.
+
+### 📉 TidyTuesday Collection (2024–2026)
+Weekly R visualisation challenge entries — static `ggplot2` and interactive Shiny versions.  
+→ [r-cheatsheets](https://github.com/pawan1198/r-cheatsheets) · [ggplot](https://github.com/pawan1198/ggplot)
+
+### 🐍 Python Beginners Guide
+Jupyter notebooks for Python fundamentals, aimed at social science researchers transitioning to code.  
+→ [Python-for-Beginners](https://github.com/pawan1198/Python-for-Beginners)
+
+---
+
+## Research Interests
+
+- Labour market dynamics (PLFS, wage inequality, employment trends)
+- Agricultural price transmission and food security
+- Public finance — GST, fiscal policy, tax compliance
+- Survey sampling methodology (SRS, PPS, stratified designs)
+- Data journalism and open reproducible research
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pawan1198&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan1198&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+</p>
+
+---
+
+## Open to
+
+💼 Freelance research, data analysis & visualization projects  
+📊 Survey design, field coordination & data management  
+✍️ Technical writing, R tutorials & open educational resources  
+
+→ Book a session: [topmate.io/pawanjangra1198](https://topmate.io/pawanjangra1198)
+
+---
+
+<sub>© Pawan· New Delhi · [indianstatistics.org](https://indianstatistics.org)</sub>
