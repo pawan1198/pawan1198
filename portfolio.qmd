@@ -1,0 +1,230 @@
+---
+title: "Portfolio Projects"
+subtitle: "A collection of data science, visualization, and research projects"
+author: "Pawan Kumar"
+date: today
+format: 
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    code-fold: true
+execute:
+  echo: false
+---
+
+# Welcome to My Portfolio 👋
+
+This page showcases my work in **data science**, **data visualization**, **statistical analysis**, and **research**. Explore the projects below to learn more about my expertise and interests.
+
+---
+
+## 📊 Data Science & Analysis Projects
+
+### [Data Science For Beginners](https://github.com/pawan1198/Data-Science-For-Beginners)
+**Language:** Jupyter Notebook | **Type:** Educational Content
+
+A comprehensive course with 10 weeks, 20 lessons of data science fundamentals. Perfect for beginners looking to get started with data science concepts and practical applications.
+
+### [Learning Repository](https://github.com/pawan1198/learning-repo)
+**Language:** Jupyter Notebook | **Type:** Educational Hub
+
+A public notebook hub with detailed explanations of various statistical methods, machine learning algorithms, deep learning models, and image processing techniques.
+
+### [COVID-19 Data Analysis](https://github.com/pawan1198/covid-19-data)
+**Language:** Python | **Type:** Data Dataset & Analysis
+
+Comprehensive data on COVID-19 cases, deaths, hospitalizations, and tests across all countries, updated daily. Sourced from Our World in Data.
+
+### [Python for Data Analysis](https://github.com/pawan1198/pydata-book)
+**Language:** Jupyter Notebook | **Type:** Educational Materials
+
+Materials and IPython notebooks from "Python for Data Analysis" by Wes McKinney (O'Reilly Media).
+
+### [Python for Beginners](https://github.com/pawan1198/Python-for-Beginners)
+**Language:** Jupyter Notebook | **Type:** Learning Course
+
+A beginner-friendly course to learn Python programming from scratch.
+
+---
+
+## 📈 Data Visualization & Research
+
+### [3D Animation](https://github.com/pawan1198/3d-animation)
+**Language:** R | **Type:** Visualization Project
+
+3D animation and visualization projects created with R.
+
+### [Tidy Tuesday Projects](https://github.com/pawan1198/tidy-tuesday)
+**Language:** R | **Type:** Weekly Data Visualization Challenge
+
+Regular participation in #TidyTuesday challenges, showcasing creative data visualization approaches using R and ggplot2.
+
+### [NSS 77th Round Data Analysis](https://github.com/pawan1198/nss77data)
+**Language:** R | **Type:** Data Processing & Analysis
+
+Scripts to read, process, and analyze National Sample Survey (NSS) 77th round data.
+
+### [Procurement Data Analysis](https://github.com/pawan1198/Procurement)
+**Language:** R | **Type:** Data Analysis
+
+Analysis of procurement data for wheat and paddy commodities.
+
+### [Introduction to Data Visualization](https://github.com/pawan1198/Intro_to_data_visualisation)
+**Language:** R | **Type:** Tutorial
+
+Comprehensive guide to creating effective data visualizations with R.
+
+---
+
+## 🛠️ Tools & Applications
+
+### [Calendar R Package (calendR)](https://github.com/pawan1198/calendR)
+**Language:** R | **Type:** R Package
+
+An R package to create calendars programmatically. Useful for scheduling, planning, and visualization of temporal data.
+
+### [Shiny Planner](https://github.com/pawan1198/shiny-planner)
+**Language:** R | **Type:** Interactive Web App
+
+An R Shiny application for creating and managing interactive calendars and plans.
+
+### [GST India](https://github.com/pawan1198/gstIndia)
+**Language:** R | **Type:** R Package
+
+Tools and utilities for working with Goods and Services Tax (GST) data in India.
+
+### [Demo App](https://github.com/pawan1198/demoapp)
+**Language:** R | **Type:** R Package
+
+A demonstration R package showcasing best practices for package development.
+
+---
+
+## 📚 Educational Resources & Cheatsheets
+
+### [Matplotlib Cheatsheets](https://github.com/pawan1198/cheatsheets)
+**Language:** Python | **Type:** Reference Guide
+
+Official Matplotlib cheat sheets for quick reference on Python data visualization.
+
+### [R Cheatsheets](https://github.com/pawan1198/r-cheatsheets)
+**Language:** HTML | **Type:** Reference Guide
+
+Comprehensive cheat sheets for getting started with R programming.
+
+### [Statistics with R](https://github.com/pawan1198/statistics-with-R)
+**Language:** HTML | **Type:** Tutorial
+
+A guide to statistical methods and analysis using R.
+
+### [R for Health Data Science](https://github.com/pawan1198/healthyr_book)
+**Language:** HTML | **Type:** Educational Book
+
+A comprehensive resource for health data science using R.
+
+### [R Text Data Resources](https://github.com/pawan1198/R-text-data)
+**Language:** R | **Type:** Data Sources
+
+Curated list of textual data sources for text mining applications in R.
+
+---
+
+## 💻 Web & Portfolio Projects
+
+### [Portfolio Website](https://github.com/pawan1198/portfolio)
+**Language:** HTML | **Type:** Personal Website
+
+My personal portfolio website showcasing projects and professional work.
+
+### [GitHub Pages Portfolio](https://github.com/pawan1198/pawan1198.github.io)
+**Language:** HTML | **Type:** GitHub Pages Site
+
+Personal website hosted on GitHub Pages.
+
+### [Pawan Org Site](https://github.com/pawan-org-site)
+**Language:** Emacs Lisp | **Type:** Static Site
+
+Website created using org-mode and Emacs, demonstrating literate programming and web development.
+
+---
+
+## 🔬 Research & Data Projects
+
+### [Indian Statistics - BibioBase](https://github.com/indianstatistics/bibliobase)
+**Language:** TeX | **Type:** Research Database
+
+A collaborative social science bibliographic database with special focus on India.
+
+### [Food Prices Database](https://github.com/indianstatistics/foodprices)
+**Language:** Data | **Type:** Dataset
+
+Retail and wholesale prices of essential commodities in India.
+
+### [Stock Analysis](https://github.com/pawan1198/Stocks)
+**Language:** R | **Type:** Financial Analysis
+
+Stock market analysis and visualization projects.
+
+---
+
+## 🎓 Learning & Development
+
+### [GitHub Pages Skills](https://github.com/pawan1198/skills-github-pages)
+**Language:** Markdown | **Type:** Learning Module
+
+GitHub Pages tutorial and skills development.
+
+### [Introduction to GitHub](https://github.com/pawan1198/skills-introduction-to-github)
+**Language:** Markdown | **Type:** Tutorial
+
+Foundational concepts and workflows for GitHub.
+
+### [Markdown Communication](https://github.com/pawan1198/skills-communicate-using-markdown)
+**Language:** Markdown | **Type:** Tutorial
+
+Guide to communicating effectively using Markdown.
+
+### [Free Programming Books](https://github.com/pawan1198/free-programming-books)
+**Language:** Markdown | **Type:** Resource List
+
+A curated list of freely available programming books.
+
+---
+
+## 💡 Additional Projects
+
+### [Workshop Materials](https://github.com/pawan1198/workshop)
+**Language:** R | **Type:** Training Materials
+
+Workshop materials and code examples for various topics.
+
+### [Emacs Configuration](https://github.com/pawan1198/emacs.d)
+**Language:** Emacs Lisp | **Type:** Development Tools
+
+My personal Emacs configuration for efficient text editing and development.
+
+### [Ubuntu Web Simulation](https://github.com/pawan1198/vivek9patel.github.io)
+**Language:** JavaScript/React | **Type:** Web Application
+
+Web simulation of Ubuntu 20.04, created using NEXT.js and Tailwind CSS.
+
+---
+
+## 🔗 Connect With Me
+
+- **GitHub:** [github.com/pawan1198](https://github.com/pawan1198)
+- **Portfolio:** [pawan1198.github.io](https://pawan1198.github.io)
+
+---
+
+## 📝 Key Skills Demonstrated
+
+- **Languages:** R, Python, JavaScript, Emacs Lisp, HTML/CSS, TeX, Markdown
+- **Tools & Libraries:** Jupyter Notebooks, RMarkdown, Quarto, Shiny, ggplot2, Matplotlib, Pandas
+- **Expertise:** Data Science, Statistical Analysis, Data Visualization, Educational Content Creation
+- **Specializations:** Research Databases, Social Science Data, Health Data Science, Agricultural/Food Economics
+
+---
+
+*Last updated: {{< var now >}}*
