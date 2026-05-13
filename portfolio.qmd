@@ -1,7 +1,7 @@
 ---
 title: "Portfolio Projects"
 subtitle: "A collection of data science, visualization, and research projects"
-author: "Pawan Kumar"
+author: "Pawan"
 date: today
 format: 
   html:
