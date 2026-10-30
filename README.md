@@ -42,7 +42,7 @@ Independent research consultant working on **Indian economic data**: government 
 
 <div align="center">
 
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=pawan1198&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/pawan1198/portfolio)
+[![portfolio](https://pawan1198.github.io/portfolio)](https://github.com/pawan1198/portfolio)
 [![r-cheatsheets](https://github-readme-stats.vercel.app/api/pin/?username=pawan1198&repo=r-cheatsheets&theme=tokyonight&hide_border=true)](https://github.com/pawan1198/r-cheatsheets)
 
 [![ggplot](https://github-readme-stats.vercel.app/api/pin/?username=pawan1198&repo=ggplot&theme=tokyonight&hide_border=true)](https://github.com/pawan1198/ggplot)
