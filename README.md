@@ -1,27 +1,68 @@
-<!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1A3A5C,100:00C9E0&height=200&section=header&text=Pawan%20Jangra&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%26%20Economic%20Researcher&descSize=20&descAlignY=60"/>
+# Pawan Jangra · Data Analyst & Economic Researcher
 
-<div align="center">
-
-<!-- Typing animation -->
-<a href="https://github.com/pawan1198">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00C9E0&center=true&vCenter=true&width=640&lines=Indian+microdata+%C2%B7+PLFS+%C2%B7+NSS+%C2%B7+DGCI%26S;data.table+%2B+ggplot2+%2B+ggiraph+%2B+Shiny;Reproducible+research+with+Quarto;Based+in+New+Delhi%2C+India" alt="Typing animation"/>
-</a>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pawanjangra1198)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C9E0?style=for-the-badge&logo=quarto&logoColor=0A1628)](https://pawan1198.github.io/portfolio)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pawanjangra1198)
-[![Topmate](https://img.shields.io/badge/Book%20a%20session-F5A623?style=for-the-badge&logoColor=white)](https://topmate.io/pawanjangra1198)
-
-</div>
+**New Delhi, India** · [LinkedIn](https://linkedin.com/in/pawanjangra1198) · [X / Twitter](https://x.com/pawanjangra1198) · [Portfolio](https://pawan1198.github.io/portfolio) · [Topmate](https://topmate.io/pawanjangra1198) · [Medium](https://medium.com/@pawanjangra1198)
 
 ---
 
-## 🔭 What I do
+## About
 
-Independent research consultant working on **Indian economic data**: government survey microdata (PLFS, NSS), trade statistics (DGCI&S/DGFT), agricultural markets, public finance and banking. I build reproducible R pipelines and publish them as Quarto documents, Shiny dashboards and research reports.
+I'm an independent data analyst and economic researcher with **7+ years** of experience in survey methodology, statistical computing, and research coordination. My work sits at the intersection of **applied economics**, **data journalism**, and **open-source publishing** — with a focus on India's labour markets, agricultural economy, and public finance.
+
+Previously at the **Society for Social and Economic Research (SSER)** and **IDEAs Advanced Certificate Programme** (OP Jindal Global University), where I led field surveys, managed large datasets, and developed analytical pipelines for socio-economic research.
+
+---
+
+## Core Skills
+
+| Domain | Tools & Technologies |
+|---|---|
+| **Statistical Analysis** | R (`data.table`, `tidyverse`, `ggplot2`, `ggiraph`) |
+| **Interactive Dashboards** | R Shiny, Quarto, `gt`, `plotly` |
+| **Survey & Field Data** | ODK / SurveyCTO, PPS sampling, PLFS microdata |
+| **Python** | `pandas`, `openpyxl`, `selenium`, `requests` |
+| **Web Scraping** | `rvest`, `RSelenium`, `BeautifulSoup` |
+| **Publishing** | Quarto books/websites, R Markdown, Org-mode |
+| **Infrastructure** | Linux/Bash, Git, GitHub Actions |
+| **Data Sources** | IMF, World Bank, ILO, UNDP, MOSPI, GST portal |
+
+---
+
+## Featured Projects
+
+### 📊 India Economic Analysis Suite
+Multi-file Quarto analysis covering edible oils, fertilizers, food prices, fuel prices, PLFS labour market data, foodgrain procurement, and merchandise trade — with HHI-based import concentration risk.  
+`data.table` · `ggiraph` · `gt` · `arrow` · `ggplot2`
+
+### 📚 R for Statistical Analysis (Textbook)
+An 18-chapter Quarto book covering foundations through advanced modelling using Indian agricultural and economic data contexts. Includes dedicated `data.table` and APA 7th edition chapters.  
+→ [statistics-with-R](https://github.com/pawan1198/statistics-with-R)
+
+### 🌐 Portfolio Website
+A multi-page Quarto site with custom SCSS themes, slide-in content drawer, and 28 integrated items spanning data viz, articles, blog posts, and statistics.  
+→ [pawan1198.github.io/portfolio](https://pawan1198.github.io/portfolio) · [portfolio](https://github.com/pawan1198/portfolio)
+
+### 📈 GST Data Dashboard (2017–2026)
+R analysis of Indian tax collection data with 11 ggplot2 visualisations, statistical tests, and a full `shinydashboard` app with ARIMA/ETS forecasting.
+
+### 📉 TidyTuesday Collection (2024–2026)
+Weekly R visualisation challenge entries — static `ggplot2` and interactive Shiny versions.  
+→ [r-cheatsheets](https://github.com/pawan1198/r-cheatsheets) · [ggplot](https://github.com/pawan1198/ggplot)
+
+### 🐍 Python Beginners Guide
+Jupyter notebooks for Python fundamentals, aimed at social science researchers transitioning to code.  
+→ [Python-for-Beginners](https://github.com/pawan1198/Python-for-Beginners)
+
+---
+
+## Research Interests
+
+- Labour market dynamics (PLFS, wage inequality, employment trends)
+- Agricultural price transmission and food security
+- Public finance — GST, fiscal policy, tax compliance
+- Survey sampling methodology (SRS, PPS, stratified designs)
+- Data journalism and open reproducible research
+
+---
 
 ## 🧰 Stack
 
@@ -38,45 +79,25 @@ Independent research consultant working on **Indian economic data**: government 
 
 </div>
 
-## 📌 Featured repositories
 
-<div align="center">
 
-[![portfolio](https://pawan1198.github.io/portfolio)](https://github.com/pawan1198/portfolio)
-[![r-cheatsheets](https://github-readme-stats.vercel.app/api/pin/?username=pawan1198&repo=r-cheatsheets&theme=tokyonight&hide_border=true)](https://github.com/pawan1198/r-cheatsheets)
+## GitHub Stats
 
-[![ggplot](https://github-readme-stats.vercel.app/api/pin/?username=pawan1198&repo=ggplot&theme=tokyonight&hide_border=true)](https://github.com/pawan1198/ggplot)
-[![statistics-with-R](https://github-readme-stats.vercel.app/api/pin/?username=pawan1198&repo=statistics-with-R&theme=tokyonight&hide_border=true)](https://github.com/pawan1198/statistics-with-R)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pawan1198&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan1198&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+</p>
 
-[![Python-for-Beginners](https://github-readme-stats.vercel.app/api/pin/?username=pawan1198&repo=Python-for-Beginners&theme=tokyonight&hide_border=true)](https://github.com/pawan1198/Python-for-Beginners)
+---
 
-</div>
+## Open to
 
-## 🔬 Selected analyses
+💼 Freelance research, data analysis & visualization projects  
+📊 Survey design, field coordination & data management  
+✍️ Technical writing, R tutorials & open educational resources  
 
-| Project | Data | Tools |
-|---|---|---|
-| Labour market 2018–22, choropleth + wage trends | PLFS | `data.table` `sf` `ggiraph` `gt` |
-| Foreign trade, HHI import concentration | DGCI&S / DGFT HS-code | `data.table` `ggplot2` |
-| Health & education microdata, 16-page report | NSS 75th Round | `data.table` `ggiraph` `gt` |
-| Sectoral bank credit, Jan 2014 – Apr 2026 | RBI (42 monthly releases) | `data.table` `readxl` |
-| Government revenue across 180 countries | IMF GFS | `data.table` `ggplot2` |
-| Real-time inequality dashboard | WID.world · ILO · priceR | `shiny` |
-| GST collections with ARIMA/ETS forecasts | GST data | `shiny` `forecast` |
+→ Book a session: [topmate.io/pawanjangra1198](https://topmate.io/pawanjangra1198)
 
-## 📊 GitHub stats
+---
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pawan1198&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan1198&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pawan1198&bg_color=0A1628&color=00C9E0&line=00C9E0&point=F5A623&area=true&area_color=00C9E0&hide_border=true"/>
-
-</div>
-
-## 🤝 Open to
-
-Freelance data analysis · research collaboration · survey design and field coordination · R workshops and technical writing
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9E0,50:1A3A5C,100:0A1628&height=100&section=footer"/>
+<sub>© Pawan Jangra · New Delhi · [indianstatistics.org](https://indianstatistics.org)</sub>
